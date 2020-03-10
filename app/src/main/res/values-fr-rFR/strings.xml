@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FilmGan2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">le film</string>
+    <string name="tv_show">TV</string>
+    <string name="profile">compte</string>
+    <string name="judul_film">titre du film</string>
+    <string name="image_film">image du film</string>
+    <string name="rating">évaluation</string>
+    <string name="overview">la conclusion</string>
+    <string name="duration">durée</string>
+    <string name="search">la recherche</string>
+    <string name="language">changer de langue</string>
+    <string name="title_language">la langue</string>
+    <string name="text_change_language">choisissez la langue</string>
+    <string name="indonesia">Indonésie</string>
+    <string name="english">anglais</string>
+    <string name="franch">France</string>
+    <string name="ok">OK</string>
+    <string name="image_tv_show">photo dune émission de télévision</string>
+    <string name="tv_show_title">Titre de lémission de télévision</string>
+    <string name="actionbar_detail_film">détails du film</string>
+    <string name="actionbar_detail_tv">détails du TV</string>
+    <string name="title_dialog">redémarrez lapplication</string>
+    <string name="body_dialog">Cliquez sur Oui pour redémarrer lapplication</string>
+    <string name="ya">oui</string>
+    <string name="no">non</string>
+<!--    =================================================== -->
+    <string name="succes_save_data">Save data French</string>
+    <string name="success_delete_data">Delete From French</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_film">Rechercher un film</string>
+    <string name="search_tv">Recherche TV</string>
+    <string name="empty">No Data</string>
+    <string name="genre">Genre</string>
+    <string name="release">Libération</string>
+
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="change_language">Changer La Langue</string>
+    <string name="reminder_film">Catalogue de films de rappel</string>
+    <string name="notification_new_film">Notification nouveau film</string>
+
+    <string name="title_activity_settings">Réglage</string>
+    <string name="key_change_language">KeyChangeLanguage</string>
+    <string name="switch_preference_notification_new_film">new_film</string>
+    <string name="switch_preference_reminder_notification">reminder</string>
+
+</resources>

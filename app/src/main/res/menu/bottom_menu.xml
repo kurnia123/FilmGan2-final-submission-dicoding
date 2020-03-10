@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_film"
+        android:icon="@drawable/outline_movie_24"
+        android:menuCategory="secondary"
+        android:title="@string/movie"/>
+
+    <item
+        android:id="@+id/navigation_tv"
+        android:icon="@drawable/outline_live_tv_24"
+        android:menuCategory="secondary"
+        android:title="@string/tv_show"/>
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/baseline_bookmark_border_24"
+        android:menuCategory="secondary"
+        android:title="@string/favorite"/>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:menuCategory="secondary"
+        android:title="@string/profile"/>
+
+</menu>

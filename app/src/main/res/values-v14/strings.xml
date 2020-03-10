@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty">No Data</string>
+    <string name="genre">Genre</string>
+    <string name="change_language">Change Language</string>
+    <string name="key_change_language">KeyChangeLanguage</string>
+    <string name="switch_preference_notification_new_film">new_film</string>
+    <string name="switch_preference_reminder_notification">reminder</string>
+</resources>
